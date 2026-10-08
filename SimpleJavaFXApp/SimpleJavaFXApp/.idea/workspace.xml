@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b741d30-8140-4821-a0d5-9143128121ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/java/org/example/customermanager/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/java/org/example/customermanager/CustomerManagerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/java/org/example/customermanager/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/java/org/example/customermanager/Launcher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/CustomerManager/src/main/resources/org/example/customermanager/hello-view.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/Screenshot/Screenshot 2026-10-07 151426.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/Screenshot/Screenshot 2026-10-07 151831.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/Screenshot/Screenshot 2026-10-07 151900.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CustomerManager/CustomerApp/Screenshot/Screenshot 2026-10-07 151926.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../SimpleJavaFXApp\exportToHTML" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SimpleJavaFXApp" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3JlencuADF29KyE4C7W3xdDC4AE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.SimpleJavaFXApp [:com.example.hellofx.HelloJavaFX.main()].executor": "Run",
+    "Gradle.SimpleJavaFXApp.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lenovo/Desktop/ICT261",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/SimpleJavaFXApp/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\Desktop\ICT261" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="untrusted" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="untrusted" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b741d30-8140-4821-a0d5-9143128121ec" name="Changes" comment="" />
+      <created>1790240265140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790240265140</updated>
+    </task>
+    <servers />
+  </component>
+</project>
